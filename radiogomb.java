@@ -74,10 +74,10 @@ import javax.swing.JRadioButton;
 	{
 		public void actionPerformed (ActionEvent e )
 		{
-				if(radiogomb1.isSelected()) GombElso.setText("First");
-				if(radiogomb2.isSelected()) GombElso.setText("Tuest");
-				if(radiogomb3.isSelected()) GombElso.setText("Thirst");
-				if(radiogomb4.isSelected()) GombElso.setText("Forst"); 	
+				if(radiogomb1.isSelected()) GombElso.setText("first");
+				if(radiogomb2.isSelected()) GombElso.setText("second");
+				if(radiogomb3.isSelected()) GombElso.setText("third");
+				if(radiogomb4.isSelected()) GombElso.setText("fourth"); 	
 				
 		}
 		
